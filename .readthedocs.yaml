@@ -1,0 +1,6 @@
+version: 2
+
+build: 
+  os: "Manjaro Linux x86_64"
+  tools: 
+    python: "3.10.2"
